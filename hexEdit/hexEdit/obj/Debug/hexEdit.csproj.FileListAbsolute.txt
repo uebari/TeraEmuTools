@@ -9,3 +9,4 @@ c:\users\asusg75vw\documents\visual studio 2012\Projects\hexEdit\hexEdit\obj\Deb
 C:\Users\Julian\Documents\Visual Studio 2012\Projects\hexEdit\hexEdit\bin\Debug\hexEdit.exe.config
 C:\Users\Julian\Documents\Visual Studio 2012\Projects\hexEdit\hexEdit\obj\Debug\hexEdit.exe
 C:\Users\Julian\Documents\Visual Studio 2012\Projects\hexEdit\hexEdit\obj\Debug\hexEdit.pdb
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\hexEdit\hexEdit\bin\Debug\hexEdit.exe.config
