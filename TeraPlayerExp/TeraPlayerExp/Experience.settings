@@ -1,0 +1,73 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TeraPlayerExp" GeneratedClassName="Experience">
+  <Profiles />
+  <Settings>
+    <Setting Name="PlayerExp" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;62&lt;/string&gt;
+  &lt;string&gt;840&lt;/string&gt;
+  &lt;string&gt;1846&lt;/string&gt;
+  &lt;string&gt;3048&lt;/string&gt;
+  &lt;string&gt;4470&lt;/string&gt;
+  &lt;string&gt;6145&lt;/string&gt;
+  &lt;string&gt;8113&lt;/string&gt;
+  &lt;string&gt;10410&lt;/string&gt;
+  &lt;string&gt;13088&lt;/string&gt;
+  &lt;string&gt;16197&lt;/string&gt;
+  &lt;string&gt;19795&lt;/string&gt;
+  &lt;string&gt;23952&lt;/string&gt;
+  &lt;string&gt;29940&lt;/string&gt;
+  &lt;string&gt;35820&lt;/string&gt;
+  &lt;string&gt;43748&lt;/string&gt;
+  &lt;string&gt;52633&lt;/string&gt;
+  &lt;string&gt;62859&lt;/string&gt;
+  &lt;string&gt;78574&lt;/string&gt;
+  &lt;string&gt;98077&lt;/string&gt;
+  &lt;string&gt;114490&lt;/string&gt;
+  &lt;string&gt;143113&lt;/string&gt;
+  &lt;string&gt;178891&lt;/string&gt;
+  &lt;string&gt;223614&lt;/string&gt;
+  &lt;string&gt;275045&lt;/string&gt;
+  &lt;string&gt;355555&lt;/string&gt;
+  &lt;string&gt;419444&lt;/string&gt;
+  &lt;string&gt;514305&lt;/string&gt;
+  &lt;string&gt;684342&lt;/string&gt;
+  &lt;string&gt;747584&lt;/string&gt;
+  &lt;string&gt;839475&lt;/string&gt;
+  &lt;string&gt;954831&lt;/string&gt;
+  &lt;string&gt;1122643&lt;/string&gt;
+  &lt;string&gt;1254159&lt;/string&gt;
+  &lt;string&gt;1454823&lt;/string&gt;
+  &lt;string&gt;1719869&lt;/string&gt;
+  &lt;string&gt;2094194&lt;/string&gt;
+  &lt;string&gt;2592956&lt;/string&gt;
+  &lt;string&gt;3029644&lt;/string&gt;
+  &lt;string&gt;3423497&lt;/string&gt;
+  &lt;string&gt;3868552&lt;/string&gt;
+  &lt;string&gt;4448835&lt;/string&gt;
+  &lt;string&gt;5427578&lt;/string&gt;
+  &lt;string&gt;7452245&lt;/string&gt;
+  &lt;string&gt;9542027&lt;/string&gt;
+  &lt;string&gt;10942319&lt;/string&gt;
+  &lt;string&gt;12815896&lt;/string&gt;
+  &lt;string&gt;14351495&lt;/string&gt;
+  &lt;string&gt;17700998&lt;/string&gt;
+  &lt;string&gt;20002128&lt;/string&gt;
+  &lt;string&gt;22002128&lt;/string&gt;
+  &lt;string&gt;24950654&lt;/string&gt;
+  &lt;string&gt;27707107&lt;/string&gt;
+  &lt;string&gt;30765345&lt;/string&gt;
+  &lt;string&gt;34158159&lt;/string&gt;
+  &lt;string&gt;37921882&lt;/string&gt;
+  &lt;string&gt;42096768&lt;/string&gt;
+  &lt;string&gt;46727412&lt;/string&gt;
+  &lt;string&gt;51863218&lt;/string&gt;
+  &lt;string&gt;106333740&lt;/string&gt;
+  &lt;string&gt;171558828&lt;/string&gt;
+  &lt;string&gt;240545856&lt;/string&gt;
+  &lt;string&gt;320254565&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

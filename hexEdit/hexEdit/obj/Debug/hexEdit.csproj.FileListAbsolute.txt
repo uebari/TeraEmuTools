@@ -1,0 +1,11 @@
+c:\users\asusg75vw\documents\visual studio 2012\Projects\hexEdit\hexEdit\bin\Debug\hexEdit.exe.config
+c:\users\asusg75vw\documents\visual studio 2012\Projects\hexEdit\hexEdit\bin\Debug\hexEdit.exe
+c:\users\asusg75vw\documents\visual studio 2012\Projects\hexEdit\hexEdit\bin\Debug\hexEdit.pdb
+c:\users\asusg75vw\documents\visual studio 2012\Projects\hexEdit\hexEdit\obj\Debug\hexEdit.Form1.resources
+c:\users\asusg75vw\documents\visual studio 2012\Projects\hexEdit\hexEdit\obj\Debug\hexEdit.Properties.Resources.resources
+c:\users\asusg75vw\documents\visual studio 2012\Projects\hexEdit\hexEdit\obj\Debug\hexEdit.csproj.GenerateResource.Cache
+c:\users\asusg75vw\documents\visual studio 2012\Projects\hexEdit\hexEdit\obj\Debug\hexEdit.exe
+c:\users\asusg75vw\documents\visual studio 2012\Projects\hexEdit\hexEdit\obj\Debug\hexEdit.pdb
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\hexEdit\hexEdit\bin\Debug\hexEdit.exe.config
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\hexEdit\hexEdit\obj\Debug\hexEdit.exe
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\hexEdit\hexEdit\obj\Debug\hexEdit.pdb

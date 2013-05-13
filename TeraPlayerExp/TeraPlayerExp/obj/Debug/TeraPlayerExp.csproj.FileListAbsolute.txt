@@ -1,0 +1,10 @@
+C:\Users\HPEdv\Documents\Visual Studio 2012\Projects\TeraPlayerExp\TeraPlayerExp\bin\Debug\TeraPlayerExp.exe.config
+C:\Users\HPEdv\Documents\Visual Studio 2012\Projects\TeraPlayerExp\TeraPlayerExp\bin\Debug\TeraPlayerExp.exe
+C:\Users\HPEdv\Documents\Visual Studio 2012\Projects\TeraPlayerExp\TeraPlayerExp\bin\Debug\TeraPlayerExp.pdb
+C:\Users\HPEdv\Documents\Visual Studio 2012\Projects\TeraPlayerExp\TeraPlayerExp\obj\Debug\TeraPlayerExp.Form1.resources
+C:\Users\HPEdv\Documents\Visual Studio 2012\Projects\TeraPlayerExp\TeraPlayerExp\obj\Debug\TeraPlayerExp.Properties.Resources.resources
+C:\Users\HPEdv\Documents\Visual Studio 2012\Projects\TeraPlayerExp\TeraPlayerExp\obj\Debug\TeraPlayerExp.csproj.GenerateResource.Cache
+C:\Users\HPEdv\Documents\Visual Studio 2012\Projects\TeraPlayerExp\TeraPlayerExp\obj\Debug\TeraPlayerExp.exe
+C:\Users\HPEdv\Documents\Visual Studio 2012\Projects\TeraPlayerExp\TeraPlayerExp\obj\Debug\TeraPlayerExp.pdb
+C:\Users\HPEdv\Documents\Visual Studio 2012\Projects\TeraPlayerExp\TeraPlayerExp\obj\Debug\TeraPlayerExp.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\TeraPlayerExp\TeraPlayerExp\bin\Debug\TeraPlayerExp.exe.config
