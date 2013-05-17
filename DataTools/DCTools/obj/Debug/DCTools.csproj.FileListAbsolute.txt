@@ -5,3 +5,11 @@ C:\Users\Julian\Documents\Visual Studio 2012\Projects\DataTools\DCTools\bin\Debu
 C:\Users\Julian\Documents\Visual Studio 2012\Projects\DataTools\DCTools\bin\Debug\protobuf-net.dll
 C:\Users\Julian\Documents\Visual Studio 2012\Projects\DataTools\DCTools\obj\Debug\DCTools.exe
 C:\Users\Julian\Documents\Visual Studio 2012\Projects\DataTools\DCTools\obj\Debug\DCTools.pdb
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DCTools\bin\Debug\dc.dec
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DCTools\bin\Debug\DCTools.exe.config
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DCTools\bin\Debug\DCTools.exe
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DCTools\bin\Debug\DCTools.pdb
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DCTools\bin\Debug\protobuf-net.dll
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DCTools\obj\Debug\DCTools.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DCTools\obj\Debug\DCTools.exe
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DCTools\obj\Debug\DCTools.pdb

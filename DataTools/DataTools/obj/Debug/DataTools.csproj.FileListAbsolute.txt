@@ -30,3 +30,35 @@ C:\Users\Julian\Documents\Visual Studio 2012\Projects\DataTools\DataTools\obj\De
 C:\Users\Julian\Documents\Visual Studio 2012\Projects\DataTools\DataTools\obj\Debug\DataTools.csproj.GenerateResource.Cache
 C:\Users\Julian\Documents\Visual Studio 2012\Projects\DataTools\DataTools\obj\Debug\DataTools.exe
 C:\Users\Julian\Documents\Visual Studio 2012\Projects\DataTools\DataTools\obj\Debug\DataTools.pdb
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\bin\Debug\DataTools.exe.config
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\bin\Debug\dc.dec
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\bin\Debug\DataTools.exe
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\bin\Debug\DataTools.pdb
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\bin\Debug\Data.dll
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\bin\Debug\DCTools.exe
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\bin\Debug\protobuf-net.dll
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\bin\Debug\TargaImage.dll
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\bin\Debug\Utils.dll
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\bin\Debug\DCTools.pdb
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\obj\Debug\DataTools.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\obj\Debug\MainWindow.baml
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\obj\Debug\MountEditor\MountEditor.baml
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\obj\Debug\NpcEditor\NpcEditor.baml
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\obj\Debug\RecipeEditor\RecipeEditor.baml
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\obj\Debug\QuestEditor\QuestEditor.baml
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\obj\Debug\SkillEditor\SkillEditor.baml
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\obj\Debug\StatsEditor\StatsEditor.baml
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\obj\Debug\MainWindow.g.cs
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\obj\Debug\MountEditor\MountEditor.g.cs
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\obj\Debug\NpcEditor\NpcEditor.g.cs
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\obj\Debug\RecipeEditor\RecipeEditor.g.cs
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\obj\Debug\QuestEditor\QuestEditor.g.cs
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\obj\Debug\SkillEditor\SkillEditor.g.cs
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\obj\Debug\StatsEditor\StatsEditor.g.cs
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\obj\Debug\App.g.cs
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\obj\Debug\DataTools_MarkupCompile.cache
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\obj\Debug\DataTools.g.resources
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\obj\Debug\DataTools.Properties.Resources.resources
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\obj\Debug\DataTools.csproj.GenerateResource.Cache
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\obj\Debug\DataTools.exe
+C:\Users\Julian\Documents\GitHub\TeraEmuTools\DataTools\DataTools\obj\Debug\DataTools.pdb
