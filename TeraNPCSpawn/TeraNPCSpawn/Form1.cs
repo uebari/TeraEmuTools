@@ -55,6 +55,8 @@ namespace TeraNPCSpawn
             if (dr == DialogResult.Cancel)
                 return;
 
+            listBox1.Items.Clear();
+
             Spawns = new Dictionary<int, List<SpawnTemplate>>();
 
             using (FileStream stream = File.OpenRead(ofd.FileName))
@@ -100,7 +102,7 @@ namespace TeraNPCSpawn
                 {
                     foreach (var sp in SpawnsList)
                     {
-                        string XMLFormat = "<NPC ID=\"" + sp.NpcId + "\""
+                        string XMLFormat = "<NPC ID=\"" + sp.NpcId + "\" FULLID=\"" + ReturnNPCFullId(sp.NpcId, sp.Type) + "\""
                             + " Type=\"" + sp.Type + "\" MapId=\"" + sp.MapId + "\""
                             + " X=\"" + sp.X + "\" Y=\"" + sp.Y + "\" Z=\"" + sp.Z + "\""
                             + " Heading=\"" + sp.Heading + "\"></NPC>";
@@ -141,12 +143,13 @@ namespace TeraNPCSpawn
                         SpawnsList.Add(new SpawnTemplate
                         {
                             NpcId = int.Parse(reader.GetAttribute(0)),
-                            Type = short.Parse(reader.GetAttribute(1)),
-                            MapId = int.Parse(reader.GetAttribute(2)),
-                            X = float.Parse(reader.GetAttribute(3)),
-                            Y = float.Parse(reader.GetAttribute(4)),
-                            Z = float.Parse(reader.GetAttribute(5)),
-                            Heading = short.Parse(reader.GetAttribute(6))
+                            Type = short.Parse(reader.GetAttribute(2)),
+                            MapId = int.Parse(reader.GetAttribute(3)),
+                            X = float.Parse(reader.GetAttribute(4)),
+                            Y = float.Parse(reader.GetAttribute(5)),
+                            Z = float.Parse(reader.GetAttribute(6)),
+                            Heading = short.Parse(reader.GetAttribute(7)),
+                            FullId = int.Parse(reader.GetAttribute(1))
                         });
                     }
                 }
@@ -164,6 +167,11 @@ namespace TeraNPCSpawn
                     }
                }
             }
+        }
+
+        public static int ReturnNPCFullId(int NpcID, short Type)
+        {
+            return (NpcID) + (Type * 100000);
         }
     }
 }
